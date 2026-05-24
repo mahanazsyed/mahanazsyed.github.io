@@ -1,221 +1,220 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mahanaz Syed",
+    "label": "Biomedical/Health Informatics Researcher",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "syedm1@uthscsa.edu",
+    "phone": "",
+    "url": "https://mahanazsyed.com",
+    "summary": "Biomedical informatics researcher with more than a decade of experience across the full span of healthcare data, from operational systems and data warehousing to research informatics. Work focuses on standardizing disparate clinical data and applying artificial intelligence, machine learning, and natural language processing to extract and harmonize high-value information from electronic health records.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "7703 Floyd Curl Drive",
+      "postalCode": "TX 78229",
+      "city": "San Antonio",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Mahanaz Syed",
+        "url": "https://scholar.google.com/citations?user=7lU_LvYAAAAJ&hl=en"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "UT Health San Antonio",
+      "position": "Instructor / Research, Population Health Sciences",
+      "location": "San Antonio, TX",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Lead AI- and standards-based research informatics, including an NIH/NCATS K12 mentored research program.",
+      "highlights": []
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "University of Arkansas for Medical Sciences",
+      "position": "Research Data Analyst, Clinical Data Warehouse",
+      "location": "Little Rock, AR",
+      "startDate": "2017-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Built and maintained clinical data warehouse infrastructure integrating heterogeneous EHR and registry data for research.",
+      "highlights": []
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "University of Arkansas for Medical Sciences",
+      "position": "Applications Systems Analyst / Programmer, Business Intelligence",
+      "location": "Little Rock, AR",
+      "startDate": "2011-01-01",
+      "endDate": "2017-01-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Iflowsoft Solutions, Orgspire, and Nth Talent",
+      "position": "Programmer Analyst",
+      "location": "United States",
+      "startDate": "2010-01-01",
+      "endDate": "2016-01-01",
       "summary": "",
       "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "University of Arkansas for Medical Sciences",
+      "location": "Little Rock, AR",
+      "area": "Biomedical Informatics",
+      "studyType": "Ph.D.",
+      "startDate": "2016-01-01",
+      "endDate": "2021-12-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Mentored by Dr. Fred Prior and Dr. Meredith Zozus"
+        ]
+    },
+    {
+      "institution": "University of Houston, Clear Lake",
+      "location": "Houston, TX",
+      "area": "Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "2008-01-01",
+      "endDate": "2010-05-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "location": "Hyderabad, India",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech.",
+      "startDate": "2004-01-01",
+      "endDate": "2008-05-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IIMS Poster Award Recipient",
+      "date": "2026-01-01",
+      "awarder": "Institute for Integration of Medicine & Science, UT Health San Antonio",
+      "summary": ""
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "IIMS K12 Career Award Recipient",
+      "date": "2025-01-01",
+      "awarder": "Institute for Integration of Medicine & Science, UT Health San Antonio",
+      "summary": ""
+    },
+    {
+      "title": "IIMS Pilot Grant Recipient",
+      "date": "2025-01-01",
+      "awarder": "Institute for Integration of Medicine & Science, UT Health San Antonio",
+      "summary": ""
+    },
+    {
+      "title": "Conference Session Chair, International Conference on Health Informatics",
+      "date": "2022-01-01",
+      "awarder": "International Conference on Health Informatics",
       "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Epic Clarity Ambulatory (CLR 205)",
+      "date": "2016-01-01",
+      "issuer": "Epic Systems"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "Epic Clarity Administrator (CLR 100)",
+      "date": "2014-01-01",
+      "issuer": "Epic Systems"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "name": "Microsoft SQL Server Certified",
+      "date": "2011-01-01",
+      "issuer": "Microsoft"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Translating evidence into practice: adapting TrialGPT for real-world clinical trial eligibility screening",
+      "publisher": "Journal of the American Medical Informatics Association (JAMIA)",
+      "releaseDate": "2026-01-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Clustering analysis of multi-site electronic health records reveals distinct subphenotypes in stage-1 acute kidney injury",
+      "publisher": "Communications Medicine",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1038/s43856-025-00993-6",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Positive Airway Pressure, Mortality, and Cardiovascular Risk in Older Adults With Sleep Apnea",
+      "publisher": "JAMA Network Open",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2024.32468",
+      "summary": ""
+    },
+    {
+      "name": "Comparing the Accuracy of Traditional vs. FHIR-Based Extraction of Electronic Health Record Data for Two Clinical Trials",
+      "publisher": "Studies in Health Technology and Informatics (MEDINFO)",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.3233/SHTI240666",
+      "summary": ""
+    },
+    {
+      "name": "DeIDNER Model: A Neural Network Named Entity Recognition Model for the De-identification of Clinical Notes",
+      "publisher": "BIOSTEC, HEALTHINF",
+      "releaseDate": "2022-01-01",
+      "url": "https://doi.org/10.5220/0010884500003123",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "R", "SQL", "JavaScript", "C / C++"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Methods and Algorithms",
+      "level": "",
+      "keywords": ["Machine learning", "Deep learning", "Natural language processing", "Named entity recognition", "Large language models"]
+    },
+    {
+      "name": "Database Systems",
+      "level": "",
+      "keywords": ["Microsoft SQL Server", "PostgreSQL", "MySQL", "Snowflake"]
+    },
+    {
+      "name": "Standards & Interoperability",
+      "level": "",
+      "keywords": ["HL7 FHIR", "OMOP CDM", "PCORnet", "i2b2"]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Interests",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AI, ML, and NLP for healthcare data",
+        "Clinical data warehousing and integration",
+        "EHR data interoperability and standards",
+        "Cancer and translational research informatics",
+        "Real-world data",
+        "clinical trials",
+        "Health equity in clinical research"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
-  ]
+  "volunteer": [],
+  "languages": [],
+  "references": [],
+  "projects": []
 }
