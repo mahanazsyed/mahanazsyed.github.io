@@ -6,131 +6,157 @@
     - name: Title
       value: Instructor, Population Health Sciences, UT Health San Antonio
     - name: Fields
-      value: Biomedical Informatics, Clinical Research Informatics, Artificial Intelligence in Healthcare
+      value: Biomedical Informatics, Clinical Research Informatics, AI in Healthcare
 
 - title: Profile
   type: text
   contents: >
-    Biomedical informatics researcher with more than a decade of experience across the
-    full span of healthcare data, from operational systems and data warehousing to
-    research informatics. Work focuses on standardizing disparate clinical data and
-    applying artificial intelligence, machine learning, and natural language processing
-    to extract and harmonize high-value information from electronic health records.
+    Biomedical informatics researcher with more than a decade of experience across
+    the full span of healthcare data, from operational systems and data warehousing
+    to research informatics. Work focuses on standardizing disparate clinical data
+    and applying artificial intelligence, machine learning, and natural language
+    processing to extract and harmonize high-value information from electronic
+    health records.
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Biomedical Informatics
       institution: University of Arkansas for Medical Sciences, Little Rock, AR
-      year: 2021
+      year: "2021"
       description:
-        - "Mentored by Dr. Fred Prior and Dr. Meredith Zozus"
-        - "Dissertation: DeIDNER — A Neural Network Named Entity Recognition Model for the De-identification of Clinical Notes"
+        - Mentored by Dr. Fred Prior and Dr. Meredith Zozus
+        - "Dissertation: DeIDNER, a neural network named entity recognition model for the de-identification of clinical notes"
     - title: M.S. in Computer Engineering
-      institution: University of Houston – Clear Lake, Houston, TX
-      year: 2010
+      institution: University of Houston, Clear Lake, Houston, TX
+      year: "2010"
     - title: B.Tech. in Electronics and Communication Engineering
       institution: Jawaharlal Nehru Technological University, Hyderabad, India
-      year: 2008
+      year: "2008"
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Instructor / Research
-      institution: Population Health Sciences, UT Health San Antonio, San Antonio, TX
-      year: 2022 - present
+    - title: Instructor / Research, Population Health Sciences
+      institution: UT Health San Antonio, San Antonio, TX
+      year: "2022 - Present"
     - title: Research Data Analyst, Clinical Data Warehouse
-      institution: Department of Biomedical Informatics, University of Arkansas for Medical Sciences
-      year: 2017 - 2022
-    - title: Applications Systems Analyst / Programmer (Business Intelligence)
-      institution: University of Arkansas for Medical Sciences
-      year: 2011 - 2017
+      institution: University of Arkansas for Medical Sciences, Little Rock, AR
+      year: "2017 - 2022"
+    - title: Applications Systems Analyst / Programmer, Business Intelligence
+      institution: University of Arkansas for Medical Sciences, Little Rock, AR
+      year: "2011 - 2017"
     - title: Programmer Analyst
-      institution: Iflowsoft Solutions Inc.; Orgspire Inc.; Nth Talent Inc.
-      year: 2010 - 2016
+      institution: Iflowsoft Solutions, Orgspire, and Nth Talent
+      year: "2010 - 2016"
 
 - title: Grants and Funded Research
   type: time_table
   contents:
-    - title: "NIH/NCATS K12 Career Development Award"
-      year: 2025 - 2027
+    - title: "Principal Investigator, NIH/NCATS K12 Career Development Award"
+      year: "2025 - 2027"
       description:
-        - "Harnessing AI and FHIR Standards for Automated Fact Extraction from EHR Data in Clinical Studies and Registries"
-    - title: "IIMS Pilot Grant"
-      year: 2025 - 2026
+        - Harnessing AI and FHIR standards for automated fact extraction from EHR data in clinical studies and registries
+    - title: "Principal Investigator, IIMS Pilot Grant"
+      year: "2025 - 2026"
       description:
-        - "Unlocking Information in Legacy Medical Records for Research"
-    - title: "Site Principal Investigator — NIH/NIA R01 (R01AG082698)"
-      year: 2024 - 2029
+        - Unlocking information in legacy medical records for research
+    - title: "Site Principal Investigator, NIH/NIA R01 (R01AG082698)"
+      year: "2024 - 2029"
       description:
-        - "A deep learning algorithm to detect signs of cognitive impairment in electronic health records"
-    - title: "Site Principal Investigator — PCORI / Amgen, cvMOBIUS2"
-      year: 2023 - 2026
+        - A deep learning algorithm to detect signs of cognitive impairment in electronic health records
+    - title: "Site Principal Investigator, PCORI / Amgen (cvMOBIUS2)"
+      year: "2023 - 2026"
       description:
-        - "CardioVascular Multicenter Observational Investigation of Lipid Care in the United States"
-    - title: "Site Principal Investigator — PCORI, PCORnet 3.0 Greater Plains Collaborative"
-      year: 2022 - 2024
-    - title: "Informaticist — NIH/NCI U24 (U24CA215109)"
-      year: 2017 - 2022
+        - CardioVascular Multicenter Observational Investigation of Lipid Care in the United States
+    - title: "Site Principal Investigator, PCORI PCORnet 3.0 Greater Plains Collaborative"
+      year: "2022 - 2024"
+    - title: "Informaticist, NIH/NCI U24 (U24CA215109)"
+      year: "2017 - 2022"
       description:
-        - "TCIA Sustainment and Scalability: Platforms for Quantitative Imaging Informatics in Precision Medicine"
+        - "TCIA Sustainment and Scalability: platforms for quantitative imaging informatics in precision medicine"
 
 - title: Honors and Awards
   type: time_table
   contents:
     - title: IIMS Poster Award Recipient
-      year: 2026
+      year: "2026"
     - title: IIMS K12 Career Award Recipient
-      year: 2025
+      year: "2025"
     - title: IIMS Pilot Grant Recipient
-      year: 2025
+      year: "2025"
     - title: Conference Session Chair, International Conference on Health Informatics
-      year: 2022
-
-- title: Certifications
-  type: list
-  contents:
-    - "Epic Clarity Ambulatory (CLR 205)"
-    - "Epic Clarity Administrator (CLR 100)"
-    - "Microsoft SQL Server Certified"
-
-- title: Professional Memberships
-  type: list
-  contents:
-    - "American Medical Informatics Association (AMIA)"
-    - "Healthcare Data and Analytics Association (HDAA)"
-    - "Health Level Seven International (HL7)"
-
-- title: Teaching
-  type: time_table
-  contents:
-    - title: "TSCI 6203 — Practicum in Biomedical Data Science"
-      institution: UT Health San Antonio
-      year: 2022-Current
-      description:
-        - "Data science and translational research applications"
-    - title: "BMIG 5012 — Introduction to Biomedical Informatics II"
-      institution: University of Arkansas for Medical Sciences
-      year: 2018
-      description:
-        - "Database management systems in healthcare with SQL"
-    - title: "Introduction to Informatics — College of Medicine (Pathology)"
-      institution: University of Arkansas for Medical Sciences
-      year: 2019
-
-- title: Service
-  type: nested_list
-  contents:
-    - title: Journal Peer Review
-      items:
-        - "Nature; Journal of Medical Internet Research; Journal of Clinical and Translational Science; IEEE Access; AMIA; JAMIA Open; and others"
+      year: "2022"
 
 - title: Selected Publications
   type: list
   contents:
     - "Syed M, et al. Translating evidence into practice: adapting TrialGPT for real-world clinical trial eligibility screening. <em>JAMIA</em>, 2026."
-    - "Li D, ... Syed M, et al. Clustering analysis of multi-site EHRs reveals distinct subphenotypes in stage-1 acute kidney injury. <em>Communications Medicine</em>, 2025."
-    - "Mazzotti DR, ... Syed M, et al. Positive Airway Pressure, Mortality, and Cardiovascular Risk in Older Adults With Sleep Apnea. <em>JAMA Network Open</em>, 2024."
-    - "Garza MY, ... Syed M, et al. Comparing the Accuracy of Traditional vs. FHIR-Based Extraction of EHR Data for Two Clinical Trials. <em>MEDINFO</em>, 2024."
-    - "Syed M, et al. DeIDNER Model: A Neural Network Named Entity Recognition Model for the De-identification of Clinical Notes. <em>BIOSTEC</em>, 2022."
-    - "See the <a href='/publications/'>Publications</a> page for the complete list."
+    - "Li D, et al. Clustering analysis of multi-site EHRs reveals distinct subphenotypes in stage-1 acute kidney injury. <em>Communications Medicine</em>, 2025."
+    - "Mazzotti DR, et al. Positive airway pressure, mortality, and cardiovascular risk in older adults with sleep apnea. <em>JAMA Network Open</em>, 2024."
+    - "Garza MY, et al. Comparing the accuracy of traditional vs. FHIR-based extraction of EHR data for two clinical trials. <em>MEDINFO</em>, 2024."
+    - "Syed M, et al. DeIDNER model: a neural network named entity recognition model for the de-identification of clinical notes. <em>BIOSTEC</em>, 2022."
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: "TSCI 6203: Practicum in Biomedical Data Science"
+      institution: UT Health San Antonio
+      year: "2023"
+      description:
+        - Data science and translational research applications
+    - title: "BMIG 5012: Introduction to Biomedical Informatics II"
+      institution: University of Arkansas for Medical Sciences
+      year: "2018"
+      description:
+        - Database management systems in healthcare with SQL
+    - title: "Introduction to Informatics, College of Medicine (Pathology)"
+      institution: University of Arkansas for Medical Sciences
+      year: "2019"
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: "Invited Panelist, IT Roundtable, Clinical Research Forum"
+      year: "2026"
+      description:
+        - "Session: Informatics Innovations to Accelerate Clinical Research"
+    - title: Application of Machine Learning in Genomics
+      institution: AI Campus Demonstrations, Little Rock, AR
+      year: "2019"
+    - title: NoSQL, a Graph DB Hybrid Model for Analysis and Knowledge Discovery
+      institution: Healthcare Data and Analytics Association (HDAA) Conference, Seattle, WA
+      year: "2018"
+
+- title: Service
+  type: list
+  contents:
+    - "<strong>Journal Peer Review:</strong> Nature; Journal of Medical Internet Research; Journal of Clinical and Translational Science; JAMIA Open; IEEE Access; AMIA."
+    - "<strong>Editorial Boards:</strong> Journal of the Society for Clinical Data Management; Journal of Quality in Health Care & Economics."
+
+- title: Programming Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, R, SQL, JavaScript, C / C++
+    - title: Methods and Algorithms
+      items:
+        - Machine learning and deep learning; natural language processing and named entity recognition; advanced AI and large language models
+    - title: Database Systems
+      items:
+        - Microsoft SQL Server, PostgreSQL, MySQL, Snowflake
+
+- title: Certifications
+  type: list
+  contents:
+    - Epic Clarity Ambulatory (CLR 205)
+    - Epic Clarity Administrator (CLR 100)
+    - Microsoft SQL Server Certified
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - American Medical Informatics Association (AMIA)
+    - Healthcare Data and Analytics Association (HDAA)
+    - Health Level Seven International (HL7)
