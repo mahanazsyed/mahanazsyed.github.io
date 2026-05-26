@@ -1,15 +1,25 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**TSCI 6203 — Practicum in Biomedical Data Science**
+UT Health San Antonio · 2023 – Present
+Data science methods and translational research applications for biomedical informatics students.
 
-{% include courses.liquid %}
+---
+
+## Past
+
+**BMIG 5012 — Introduction to Biomedical Informatics II**
+University of Arkansas for Medical Sciences · 2018 (Guest Lecture)
+Database management systems in healthcare with SQL.
+
+**Introduction to Informatics — College of Medicine (Pathology)**
+University of Arkansas for Medical Sciences · 2019 (Guest Lecture)
+Informatics and data warehousing in clinical pathology and chemistry.
